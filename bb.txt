@@ -1,1 +1,1 @@
-added bb.txt on branch-b
+added bb.txt to the master-b
